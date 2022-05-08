@@ -116,8 +116,6 @@ public class FileClassifier {
                     listModel2.addElement(selectedFile.getName());
 
                 }
-
-                //textArea.setText(Files.readString(selectedFile.toPath()));
             }
 
 
